@@ -144,6 +144,17 @@ assets:
   method: copy
   source:
   - name: nm/-6.dds
+- name: remastered/obj/P_EX100_NM.mdlx/-7.dds
+  platform: pc
+  multi:
+  - name: remastered/obj/P_EX100_NM_BTLF.mdlx/-7.dds
+  - name: remastered/obj/P_EX100_NM_MAGF.mdlx/-7.dds
+  - name: remastered/obj/P_EX100_NM_TRIF.mdlx/-7.dds
+  - name: remastered/obj/P_EX100_NM_ULTF.mdlx/-7.dds
+  - name: remastered/obj/P_EX100_NM_KH1F.mdlx/-7.dds
+  method: copy
+  source:
+  - name: nm/-7.dds
 - name: remastered/obj/P_EX100_TR.mdlx/-0.dds
   platform: pc
   multi:

@@ -1,0 +1,303 @@
+title: OOPS All Limit
+description: "Limit 7 Squad's official mod for Relay Tourney"
+assets:
+- name: remastered/obj/P_EX100_KH1F/-0.dds
+  platform: pc
+  multi:
+  - name: remastered/obj/P_EX100_BTLF/-0.dds
+  - name: remastered/obj/P_EX100_MAGF/-0.dds
+  - name: remastered/obj/P_EX100_TRIF/-0.dds
+  - name: remastered/obj/P_EX100_ULTF/-0.dds
+  method: copy
+  source:
+  - name: base/-0.dds
+- name: remastered/obj/P_EX100_KH1F/-1.dds
+  platform: pc
+  multi:
+  - name: remastered/obj/P_EX100_BTLF/-1.dds
+  - name: remastered/obj/P_EX100_MAGF/-1.dds
+  - name: remastered/obj/P_EX100_TRIF/-1.dds
+  - name: remastered/obj/P_EX100_ULTF/-1.dds
+  method: copy
+  source:
+  - name: base/-1.dds
+- name: remastered/obj/P_EX100_KH1F/-2.dds
+  platform: pc
+  multi:
+  - name: remastered/obj/P_EX100_BTLF/-2.dds
+  - name: remastered/obj/P_EX100_MAGF/-2.dds
+  - name: remastered/obj/P_EX100_TRIF/-2.dds
+  - name: remastered/obj/P_EX100_ULTF/-2.dds
+  method: copy
+  source:
+  - name: base/-2.dds
+- name: remastered/obj/P_EX100_KH1F/-3.dds
+  platform: pc
+  multi:
+  - name: remastered/obj/P_EX100_BTLF/-3.dds
+  - name: remastered/obj/P_EX100_MAGF/-3.dds
+  - name: remastered/obj/P_EX100_TRIF/-3.dds
+  - name: remastered/obj/P_EX100_ULTF/-3.dds
+  method: copy
+  source:
+  - name: base/-3.dds
+- name: remastered/obj/P_EX100_KH1F/-4.dds
+  platform: pc
+  multi:
+  - name: remastered/obj/P_EX100_BTLF/-4.dds
+  - name: remastered/obj/P_EX100_MAGF/-4.dds
+  - name: remastered/obj/P_EX100_TRIF/-4.dds
+  - name: remastered/obj/P_EX100_ULTF/-4.dds
+  method: copy
+  source:
+  - name: base/-4.dds
+- name: remastered/obj/P_EX100_KH1F/-5.dds
+  platform: pc
+  multi:
+  - name: remastered/obj/P_EX100_BTLF/-5.dds
+  - name: remastered/obj/P_EX100_MAGF/-5.dds
+  - name: remastered/obj/P_EX100_TRIF/-5.dds
+  - name: remastered/obj/P_EX100_ULTF/-5.dds
+  method: copy
+  source:
+  - name: base/-5.dds
+- name: remastered/obj/P_EX100_NM_KH1F/-0.dds
+  platform: pc
+  multi:
+  - name: remastered/obj/P_EX100_NM_BTLF/-0.dds
+  - name: remastered/obj/P_EX100_NM_MAGF/-0.dds
+  - name: remastered/obj/P_EX100_NM_TRIF/-0.dds
+  - name: remastered/obj/P_EX100_NM_ULTF/-0.dds
+  method: copy
+  source:
+  - name: nm/-0.dds
+- name: remastered/obj/P_EX100_NM_KH1F/-1.dds
+  platform: pc
+  multi:
+  - name: remastered/obj/P_EX100_NM_BTLF/-1.dds
+  - name: remastered/obj/P_EX100_NM_MAGF/-1.dds
+  - name: remastered/obj/P_EX100_NM_TRIF/-1.dds
+  - name: remastered/obj/P_EX100_NM_ULTF/-1.dds
+  method: copy
+  source:
+  - name: nm/-1.dds
+- name: remastered/obj/P_EX100_NM_KH1F/-2.dds
+  platform: pc
+  multi:
+  - name: remastered/obj/P_EX100_NM_BTLF/-2.dds
+  - name: remastered/obj/P_EX100_NM_MAGF/-2.dds
+  - name: remastered/obj/P_EX100_NM_TRIF/-2.dds
+  - name: remastered/obj/P_EX100_NM_ULTF/-2.dds
+  method: copy
+  source:
+  - name: nm/-2.dds
+- name: remastered/obj/P_EX100_NM_KH1F/-3.dds
+  platform: pc
+  multi:
+  - name: remastered/obj/P_EX100_NM_BTLF/-3.dds
+  - name: remastered/obj/P_EX100_NM_MAGF/-3.dds
+  - name: remastered/obj/P_EX100_NM_TRIF/-3.dds
+  - name: remastered/obj/P_EX100_NM_ULTF/-3.dds
+  method: copy
+  source:
+  - name: nm/-3.dds
+- name: remastered/obj/P_EX100_NM_KH1F/-4.dds
+  platform: pc
+  multi:
+  - name: remastered/obj/P_EX100_NM_BTLF/-4.dds
+  - name: remastered/obj/P_EX100_NM_MAGF/-4.dds
+  - name: remastered/obj/P_EX100_NM_TRIF/-4.dds
+  - name: remastered/obj/P_EX100_NM_ULTF/-4.dds
+  method: copy
+  source:
+  - name: nm/-4.dds
+- name: remastered/obj/P_EX100_NM_KH1F/-5.dds
+  platform: pc
+  multi:
+  - name: remastered/obj/P_EX100_NM_BTLF/-5.dds
+  - name: remastered/obj/P_EX100_NM_MAGF/-5.dds
+  - name: remastered/obj/P_EX100_NM_TRIF/-5.dds
+  - name: remastered/obj/P_EX100_NM_ULTF/-5.dds
+  method: copy
+  source:
+  - name: nm/-5.dds
+- name: remastered/obj/P_EX100_NM_KH1F/-6.dds
+  platform: pc
+  multi:
+  - name: remastered/obj/P_EX100_NM_BTLF/-6.dds
+  - name: remastered/obj/P_EX100_NM_MAGF/-6.dds
+  - name: remastered/obj/P_EX100_NM_TRIF/-6.dds
+  - name: remastered/obj/P_EX100_NM_ULTF/-6.dds
+  method: copy
+  source:
+  - name: nm/-6.dds
+- name: remastered/obj/P_EX100_NM_KH1F/-7.dds
+  platform: pc
+  multi:
+  - name: remastered/obj/P_EX100_NM_BTLF/-7.dds
+  - name: remastered/obj/P_EX100_NM_MAGF/-7.dds
+  - name: remastered/obj/P_EX100_NM_TRIF/-7.dds
+  - name: remastered/obj/P_EX100_NM_ULTF/-7.dds
+  method: copy
+  source:
+  - name: nm/-7.dds
+- name: remastered/obj/P_EX100_NM_KH1F/-8.dds
+  platform: pc
+  multi:
+  - name: remastered/obj/P_EX100_NM_BTLF/-8.dds
+  - name: remastered/obj/P_EX100_NM_MAGF/-8.dds
+  - name: remastered/obj/P_EX100_NM_TRIF/-8.dds
+  - name: remastered/obj/P_EX100_NM_ULTF/-8.dds
+  method: copy
+  source:
+  - name: nm/-8.dds
+- name: remastered/obj/P_EX100_TR_KH1F/-0.dds
+  platform: pc
+  multi:
+  - name: remastered/obj/P_EX100_TR_BTLF/-0.dds
+  - name: remastered/obj/P_EX100_TR_MAGF/-0.dds
+  - name: remastered/obj/P_EX100_TR_TRIF/-0.dds
+  - name: remastered/obj/P_EX100_TR_ULTF/-0.dds
+  method: copy
+  source:
+  - name: tr/-0.dds
+- name: remastered/obj/P_EX100_TR_KH1F/-1.dds
+  platform: pc
+  multi:
+  - name: remastered/obj/P_EX100_TR_BTLF/-1.dds
+  - name: remastered/obj/P_EX100_TR_MAGF/-1.dds
+  - name: remastered/obj/P_EX100_TR_TRIF/-1.dds
+  - name: remastered/obj/P_EX100_TR_ULTF/-1.dds
+  method: copy
+  source:
+  - name: tr/-1.dds
+- name: remastered/obj/P_EX100_TR_KH1F/-2.dds
+  platform: pc
+  multi:
+  - name: remastered/obj/P_EX100_TR_BTLF/-2.dds
+  - name: remastered/obj/P_EX100_TR_MAGF/-2.dds
+  - name: remastered/obj/P_EX100_TR_TRIF/-2.dds
+  - name: remastered/obj/P_EX100_TR_ULTF/-2.dds
+  method: copy
+  source:
+  - name: tr/-2.dds
+- name: remastered/obj/P_EX100_TR_KH1F/-3.dds
+  platform: pc
+  multi:
+  - name: remastered/obj/P_EX100_TR_BTLF/-3.dds
+  - name: remastered/obj/P_EX100_TR_MAGF/-3.dds
+  - name: remastered/obj/P_EX100_TR_TRIF/-3.dds
+  - name: remastered/obj/P_EX100_TR_ULTF/-3.dds
+  method: copy
+  source:
+  - name: tr/-3.dds
+- name: remastered/obj/P_EX100_TR_KH1F/-4.dds
+  platform: pc
+  multi:
+  - name: remastered/obj/P_EX100_TR_BTLF/-4.dds
+  - name: remastered/obj/P_EX100_TR_MAGF/-4.dds
+  - name: remastered/obj/P_EX100_TR_TRIF/-4.dds
+  - name: remastered/obj/P_EX100_TR_ULTF/-4.dds
+  method: copy
+  source:
+  - name: tr/-4.dds
+- name: remastered/obj/P_EX100_WI_KH1F/-0.dds
+  platform: pc
+  multi:
+  - name: remastered/obj/P_EX100_WI_BTLF/-0.dds
+  - name: remastered/obj/P_EX100_WI_MAGF/-0.dds
+  - name: remastered/obj/P_EX100_WI_TRIF/-0.dds
+  - name: remastered/obj/P_EX100_WI_ULTF/-0.dds
+  method: copy
+  source:
+  - name: wi/-0.dds
+- name: remastered/obj/P_EX100_WI_KH1F/-1.dds
+  platform: pc
+  multi:
+  - name: remastered/obj/P_EX100_WI_BTLF/-1.dds
+  - name: remastered/obj/P_EX100_WI_MAGF/-1.dds
+  - name: remastered/obj/P_EX100_WI_TRIF/-1.dds
+  - name: remastered/obj/P_EX100_WI_ULTF/-1.dds
+  method: copy
+  source:
+  - name: wi/-1.dds
+- name: remastered/obj/P_EX100_WI_KH1F/-2.dds
+  platform: pc
+  multi:
+  - name: remastered/obj/P_EX100_WI_BTLF/-2.dds
+  - name: remastered/obj/P_EX100_WI_MAGF/-2.dds
+  - name: remastered/obj/P_EX100_WI_TRIF/-2.dds
+  - name: remastered/obj/P_EX100_WI_ULTF/-2.dds
+  method: copy
+  source:
+  - name: wi/-2.dds
+- name: remastered/obj/P_EX100_XM_KH1F/-0.dds
+  platform: pc
+  multi:
+  - name: remastered/obj/P_EX100_XM_BTLF/-0.dds
+  - name: remastered/obj/P_EX100_XM_MAGF/-0.dds
+  - name: remastered/obj/P_EX100_XM_TRIF/-0.dds
+  - name: remastered/obj/P_EX100_XM_ULTF/-0.dds
+  method: copy
+  source:
+  - name: xm/-0.dds
+- name: remastered/obj/P_EX100_XM_KH1F/-1.dds
+  platform: pc
+  multi:
+  - name: remastered/obj/P_EX100_XM_BTLF/-1.dds
+  - name: remastered/obj/P_EX100_XM_MAGF/-1.dds
+  - name: remastered/obj/P_EX100_XM_TRIF/-1.dds
+  - name: remastered/obj/P_EX100_XM_ULTF/-1.dds
+  method: copy
+  source:
+  - name: xm/-1.dds
+- name: remastered/obj/P_EX100_XM_KH1F/-2.dds
+  platform: pc
+  multi:
+  - name: remastered/obj/P_EX100_XM_BTLF/-2.dds
+  - name: remastered/obj/P_EX100_XM_MAGF/-2.dds
+  - name: remastered/obj/P_EX100_XM_TRIF/-2.dds
+  - name: remastered/obj/P_EX100_XM_ULTF/-2.dds
+  method: copy
+  source:
+  - name: xm/-2.dds
+- name: remastered/obj/P_EX100_XM_KH1F/-3.dds
+  platform: pc
+  multi:
+  - name: remastered/obj/P_EX100_XM_BTLF/-3.dds
+  - name: remastered/obj/P_EX100_XM_MAGF/-3.dds
+  - name: remastered/obj/P_EX100_XM_TRIF/-3.dds
+  - name: remastered/obj/P_EX100_XM_ULTF/-3.dds
+  method: copy
+  source:
+  - name: xm/-3.dds
+- name: remastered/obj/P_EX100_XM_KH1F/-4.dds
+  platform: pc
+  multi:
+  - name: remastered/obj/P_EX100_XM_BTLF/-4.dds
+  - name: remastered/obj/P_EX100_XM_MAGF/-4.dds
+  - name: remastered/obj/P_EX100_XM_TRIF/-4.dds
+  - name: remastered/obj/P_EX100_XM_ULTF/-4.dds
+  method: copy
+  source:
+  - name: xm/-4.dds
+- name: remastered/obj/P_EX100_XM_KH1F/-5.dds
+  platform: pc
+  multi:
+  - name: remastered/obj/P_EX100_XM_BTLF/-5.dds
+  - name: remastered/obj/P_EX100_XM_MAGF/-5.dds
+  - name: remastered/obj/P_EX100_XM_TRIF/-5.dds
+  - name: remastered/obj/P_EX100_XM_ULTF/-5.dds
+  method: copy
+  source:
+  - name: xm/-5.dds
+- name: obj/P_EX100_NM.mdlx
+  platform: pc
+  multi:
+  - name: obj/P_EX100_NM_BTLF.mdlx
+  - name: obj/P_EX100_NM_MAGF.mdlx
+  - name: obj/P_EX100_NM_TRIF.mdlx
+  - name: obj/P_EX100_NM_ULTF.mdlx
+  method: copy
+  source:
+  - name: P_EX100_NM.mdlx

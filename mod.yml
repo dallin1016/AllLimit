@@ -155,6 +155,30 @@ assets:
   method: copy
   source:
   - name: nm/-7.dds
+- name: remastered/obj/P_EX100_NM.mdlx/-8.dds
+  method: copy
+  source:
+  - name: nm/-8.dds
+- name: remastered/obj/P_EX100_NM_BTLF.mdlx/-8.dds
+  method: copy
+  source:
+  - name: nm/btlf/-8.dds
+- name: remastered/obj/P_EX100_NM_KH1F.mdlx/-8.dds
+  method: copy
+  source:
+  - name: nm/kh1f/-8.dds
+- name: remastered/obj/P_EX100_NM_MAGF.mdlx/-8.dds
+  method: copy
+  source:
+  - name: nm/magf/-8.dds
+- name: remastered/obj/P_EX100_NM_TRIF.mdlx/-8.dds
+  method: copy
+  source:
+  - name: nm/trif/-8.dds
+- name: remastered/obj/P_EX100_NM_ULTF.mdlx/-8.dds
+  method: copy
+  source:
+  - name: nm/ultf/-8.dds
 - name: remastered/obj/P_EX100_TR.mdlx/-0.dds
   platform: pc
   multi:
@@ -309,14 +333,3 @@ assets:
   method: copy
   source:
   - name: xm/-5.dds
-- name: obj/P_EX100_NM.mdlx
-  platform: pc
-  multi:
-  - name: obj/P_EX100_NM_BTLF.mdlx
-  - name: obj/P_EX100_NM_MAGF.mdlx
-  - name: obj/P_EX100_NM_TRIF.mdlx
-  - name: obj/P_EX100_NM_ULTF.mdlx
-  - name: obj/P_EX100_NM_KH1F.mdlx
-  method: copy
-  source:
-  - name: P_EX100_NM.mdlx
